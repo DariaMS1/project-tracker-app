@@ -4,17 +4,24 @@ An app that keeps tracks of all projects inserted into it, with different projec
 
 ## Description
 
-
+The motivation of the project was to build an app that can solve the problems of busy developers and help them manage time. It is intended to be easy to use and to store the data inserted for the day. It displays time and indicates what block is linked to the current user time through colour-coding.
+Project was developed to increase JavaScript understanding and usage of APIs and libraries.
+I have also tried adding some badges.
 
 ## Installation
 
-
+You can clone the repo and open the HTML in the browser or access it on the deployed page.
+https://dariams1.github.io/project-tracker-app/
 
 ## Usage
 
-![alt text](assets/images/screenshot.png)
+All you have to do is enter the details you want to the assigned time blocks and click the save button to the right; the information will be displayed in the browser's local storage.
+
+![Page screenshot](assets/images/Screenshot%202024-03-22%20174231.png)
 
 ## Credits
+
+I have gotten help from: https://github.com/dansora
 
 https://github.com/DariaMS1
 
